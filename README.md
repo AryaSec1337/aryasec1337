@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Tengku Arya Saputra</h1>
 <h3 align="center">💻 Informatics Engineering Student | 🌐 Tech Enthusiast | 🤝 Team Player | 🚀 Lifelong Learner</h3>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -55,15 +54,17 @@
 
 ## 📊 GitHub Stats
 
-![AryaSec1337 GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaSec1337&show_icons=true&theme=radical)
-
-> 📝 *Top languages represent public repo stats, not actual skill.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaSec1337&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSec1337&layout=compact&theme=react" />
+</p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 
 ![AryaSec1337 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryaSec1337&theme=react-dark)
+
 
 
 ---
@@ -83,6 +84,6 @@
 ## ❤️ Views & Followers
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Aryaalfahrezi010" alt="Profile Views"/>
-  <a href="https://github.com/Aryaalfahrezi010?tab=followers"><img src="https://img.shields.io/github/followers/Aryaalfahrezi010?label=Followers&style=social" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=AryaSec1337" alt="Profile Views"/>
+  <a href="https://github.com/Aryaalfahrezi010?tab=followers"><img src="https://img.shields.io/github/followers/AryaSec1337?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
