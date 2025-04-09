@@ -1,74 +1,88 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="banner"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">,I'm Tengku Arya Saputra</h1>
-<h3 align="center">Hello, my name is Tengku Arya Saputra, a student at the Esa Unggul university majoring in informatics engineering, I am an activist in learning and understanding about the world of technology, happy to work in teams and competent in the world of work, always wanting to try something new with new experiences.</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Tengku Arya Saputra</h1>
+<h3 align="center">💻 Informatics Engineering Student | 🌐 Tech Enthusiast | 🤝 Team Player | 🚀 Lifelong Learner</h3>
+
+---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ragnarok Tools](https://github.com/Aryaalfahrezi010/Ragnarok)**
+- 🎓 Student at **Esa Unggul University**, majoring in Informatics Engineering  
+- 🔭 Currently working on **[Ragnarok Tools](https://github.com/Aryaalfahrezi010/Ragnarok)**  
+- 🌱 Learning **Data Structures & Algorithms**  
+- 👯 Looking to collaborate on **Open Source Projects**  
+- 💼 See my work on **[My GitHub Portfolio](https://github.com/Aryaalfahrezi010)**  
+- 📫 Reach me at **darkclownsecurity@gmail.com**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+---
+## 🚀 GitHub Contribution Trophy
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+![trophy](https://github-profile-trophy.vercel.app/?username=AryaSec1337&theme=onedark).
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Aryaalfahrezi010)**
+## PIN Project
 
-- 📫 How to reach me **darkclownsecurity@gmail.com**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryasec1337&repo=CORSpect)](https://github.com/AryaSec1337/CORSpect)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryasec1337&repo=larapush)](https://github.com/AryaSec1337/larapush)
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/php-logo-vector.svg" height="45" width="45"></a>
-    <a href="" target="_blank"><img src="https://static.cdnlogo.com/logos/b/16/bash.svg" width="100" height="100">
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/Aryaalfahrezi010/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryaalfahrezi010&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Aryaalfahrezi010/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aryaalfahrezi010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Aryaalfahrezi010/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaalfahrezi010&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/Aryaalfahrezi010/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aryaalfahrezi010&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
+## 🚀 Tech Stack & Tools
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/tengku-arya-saputra-3b5031224/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/darkclownsec.id/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/php-logo-vector.svg" height="45" width="45"/>
+  <img src="https://static.cdnlogo.com/logos/b/16/bash.svg" width="45" height="45"/>
 </p>
 
-## ❤ Views and Followers
+---
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Aryaalfahrezi010">
-</a>
-<a href="https://github.com/Aryaalfahrezi010?tab=followers"><img src="https://img.shields.io/github/followers/Aryaalfahrezi010?label=Followers&style=social" alt="GitHub Badge"></a>
+## 📚 Blog & Articles
+
+> I love writing about tech, security, and development tips. Check out my latest posts:
+
+- 📝 [Understanding API Security - Medium](https://medium.com/@darkclownsecurity)
+- 🚀 [Why You Should Learn DSA - Dev.to](https://dev.to/darkclownsecurity)
+- 🔐 [Cybersecurity for Beginners - Personal Blog](https://your-custom-blog-link.com)
+
+---
+
+## 📊 GitHub Stats
+
+![AryaSec1337 GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaSec1337&show_icons=true&theme=radical)
+
+> 📝 *Top languages represent public repo stats, not actual skill.*
+
+---
+
+## 📈 GitHub Activity Graph
+
+![AryaSec1337 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryaSec1337&theme=react-dark)
+
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tengku-arya-saputra-3b5031224/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/darkclownsec.id/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://stackoverflow.com/users/21423521/tengku-arya-saputra"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png"/></a>
+  <a href="https://www.codewars.com/users/Aryaalfahrezi010"><img src="https://www.codewars.com/users/Aryaalfahrezi010/badges/small" alt="Codewars badge"></a>
+  <a href="https://github.com/sponsors/Aryaalfahrezi010"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Funding-informational?style=flat&logo=GitHub" alt="GitHub Sponsors Badge"/></a>
+</p>
+
+---
+
+## ❤️ Views & Followers
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Aryaalfahrezi010" alt="Profile Views"/>
+  <a href="https://github.com/Aryaalfahrezi010?tab=followers"><img src="https://img.shields.io/github/followers/Aryaalfahrezi010?label=Followers&style=social" alt="GitHub Followers"></a>
+</p>
