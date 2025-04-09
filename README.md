@@ -46,9 +46,8 @@
 
 > I love writing about tech, security, and development tips. Check out my latest posts:
 
-- 📝 [Understanding API Security - Medium](https://medium.com/@darkclownsecurity)
-- 🚀 [Why You Should Learn DSA - Dev.to](https://dev.to/darkclownsecurity)
-- 🔐 [Cybersecurity for Beginners - Personal Blog](https://your-custom-blog-link.com)
+- 📝 [Article Bug Bounty - Medium](https://medium.com/AryaSec1337)
+- 🚀 [Web Official Team](https://www.darkclownsecurity.org)
 
 ---
 
