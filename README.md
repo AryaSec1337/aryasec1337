@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="banner"/></a>
+<p align="center">
+  <a href="#"><img width="50%" height="auto" src="https://i.imgur.com/TStr7OP.png" alt="banner"/></a>
+</p>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Tengku Arya Saputra</h1>
 <h3 align="center">💻 Informatics Engineering Student | 🌐 Tech Enthusiast | 🤝 Team Player | 🚀 Lifelong Learner</h3>
