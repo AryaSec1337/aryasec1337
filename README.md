@@ -4,15 +4,19 @@
 
 ###
 
-<h1 data-importer="text" align="center">👋 Hi  there , I'm Tengku Arya Saputra</h1>
-
-###
-
-<h2 data-importer="text" align="center">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ RED TEAM | 💣 Penetration Tester</h2>
-
-###
-
 <br clear="both">
+
+<img data-importer="image" align="left" height="200" src="https://i.ibb.co.com/wNv8VGTD/cropped-circle-image.png"  />
+
+###
+
+<h3 data-importer="text" align="left">👋 Hi  there , I'm Tengku Arya Saputra</h3>
+
+###
+
+<h3 data-importer="text" align="left">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ Purple Team | 💣 Penetration Tester</h3>
+
+###
 
 <h2 data-importer="text" align="left">About me</h2>
 
@@ -34,7 +38,6 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/AryaSec1337/AryaSec1337/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=33353823" target="_blank" style="display: block" align="center">
@@ -44,16 +47,27 @@
   </picture>
 </a>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ###
+<br clear="both">
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=1301561164" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1301561164&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1301561164&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/tengku-arya-saputra-3b5031224/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@arya_alfahrezy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="mailto:tengkuarya00@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://aryasec.medium.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://x.com/AryaSec1337" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
@@ -133,28 +147,6 @@
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/tengku-arya-saputra-3b5031224/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@arya_alfahrezy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="mailto:tengkuarya00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://aryasec.medium.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://x.com/AryaSec1337" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
