@@ -14,13 +14,20 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ Purple Team | 💣 Penetration Tester</h3>
+<h4 data-importer="text" align="left">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ Purple Team | ⚔️ Penetration Tester | 📊 SOC Analyst</h4>
 
 ###
+
+<p data-importer="text" align="left">Cybersecurity is not just about stopping attacks, but also about detecting threats as early as possible, responding quickly and effectively, and ensuring effective recovery so that organizations remain resilient in the face of future threats. This philosophy serves as the cornerstone of every Blue Team activity in building a sustainable cybersecurity defense.</p>
+
+###
+
+<br clear="both">
 
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
+
 <br clear="both">
 
 <p data-importer="text" align="left">I am a cybersecurity professional with extensiveexperience as an IT Security & Governance Analyst, Penetration Tester, Red Team member, and Security Engineer. My daily responsibilities include conducting penetration testing, monitoring, and analyzing potential cyberattacks through SIEM platforms, as well as strengthening security posture from both technical and governance perspectives. I am capable of identifying and exploiting vulnerabilities in IT infrastructure to protect sensitive data and mitigate the risk of attacks. Armed with experience in managing penetration testing projects from start to finish, as well as expertise in industry-grade security tools, I provide comprehensive system vulnerability assessments and effective remediation recommendations. I am ready to contribute to enhancing the company’s security resi•lience through technical, procedural, and continuous threat monitoring approaches.</p>
