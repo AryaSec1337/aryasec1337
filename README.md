@@ -20,7 +20,7 @@
 <p data-importer="text" align="left">Cybersecurity is not just about stopping attacks, but also about detecting threats as early as possible, responding quickly and effectively, and ensuring effective recovery so that organizations remain resilient in the face of future threats. This philosophy serves as the cornerstone of every Blue Team activity in building a sustainable cybersecurity defense.</p>
 
 ###
-
+<br clear="both">
 
 <h2 data-importer="text" align="left">About me</h2>
 
