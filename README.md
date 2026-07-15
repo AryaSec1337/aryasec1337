@@ -16,6 +16,7 @@
 
 <h3 data-importer="text" align="left">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ Purple Team | 💣 Penetration Tester</h3>
 
+<br clear="both">
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
@@ -36,17 +37,7 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/AryaSec1337/AryaSec1337/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-<!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=33353823" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33353823&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @AryaSec1337" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33353823&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-###
 <br clear="both">
 
 <div data-importer="socials" align="center">
