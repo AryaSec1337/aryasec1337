@@ -13,7 +13,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ Purple Team | ⚔️ Penetration Tester | 📊 SOC Analyst</h4>
+<h5 data-importer="text" align="left">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ Purple Team | ⚔️ Penetration Tester | 📊 SOC L1 Analyst</h4>
 
 ###
 
