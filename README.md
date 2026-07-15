@@ -4,19 +4,17 @@
 
 ###
 
-<img data-importer="image" align="left" height="200" src="https://avatars.githubusercontent.com/u/33353823"  />
+<h1 data-importer="text" align="center">👋 Hi  there , I'm Tengku Arya Saputra</h1>
 
 ###
 
-<p data-importer="text" align="left">Hi there , I'm Tengku Arya Saputra</p>
+<h2 data-importer="text" align="center">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ RED TEAM | 💣 Penetration Tester</h2>
 
 ###
 
-<p data-importer="text" align="left">🛡️ Cyber Security Analyst | 🧠 Security Engineer | 🕵️‍♂️ RED TEAM | 💣 Penetration Tester</p>
+<br clear="both">
 
-###
-
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/tengku-arya-saputra-3b5031224/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
